@@ -1,2 +1,1 @@
-# try_git
-<meta name='WebShopCommerce' content='19e24c78b61e055807af978c6d78c6a1' />
+<meta name='WebShopCommerce' content='3770d5ec380a510875e02daefdd059c0' />
